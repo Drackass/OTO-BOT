@@ -29,8 +29,7 @@
 🤖 This repository is made to contain a cool robot named OTO with a few special features.
 
 <div align="center">
-  <img alt="Main Banner" src="https://github.com/Drackass/OTO-BOT/blob/main/ForGithub/1.png" width="350px">
-  <img alt="Main Banner" src="https://github.com/Drackass/OTO-BOT/blob/main/ForGithub/2.png" width="350px">
+  <img alt="Main Banner" src="https://github.com/Drackass/OTO-BOT/blob/main/ForGithub/1.png" width="1000px">
 </div>
 
 # 📚 Table of contents

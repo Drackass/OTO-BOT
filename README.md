@@ -30,7 +30,7 @@
 <img alt="Main Banner" src="https://github.com/Drackass/OTO-BOT/blob/main/ForGithub/1.png" width="1000px">
 
 <p align="center">
-  <a href="https://example.com" align="center"><img alt="live demo" src="https://static.vecteezy.com/system/resources/previews/011/888/164/non_2x/neumorphic-play-icon-neumorphism-play-button-free-png.png" width="50px"></a>
+  <a href="https://drackass.github.io/OTO-BOT/" align="center"><img alt="live demo" src="https://static.vecteezy.com/system/resources/previews/011/888/164/non_2x/neumorphic-play-icon-neumorphism-play-button-free-png.png" width="50px"></a>
 </p> 
 
 # 📚 Table of contents
